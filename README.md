@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-## Overview of the analysis:
+## Project Overview
 
 The intended purpose of this analysis is to idenitfy if there was a bias towards favorable reviews from the Amazon Vine Program when paid and unpaid. This analysis centered around a subset group for video games. For this analysis I used Google Colaboratory, Amazon Web Services to create a RDS group and a S3 bucket, PostreSQL, and PySpark.   
 
